@@ -1,4 +1,4 @@
-public class Water extends Beverage{
+public class Water extends Beverage {
 
 //    @Override
 //    public String getDescription() {
